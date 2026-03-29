@@ -72,4 +72,9 @@ I utilized Gemini/Claude as a pair-programmer to accelerate specific architectur
 * **Technical Decision I'm Proud Of:** I'm particularly proud of the **Atomic Save Logic**. By wrapping the database write and the state update in a `try...finally` block, I ensured the "buffering" overlay never hangs, even if the disk is full or the database encounters a lock. This provides a "High-Agency" user experience where the UI never feels broken or unresponsive.
 
 ---
+
+##📸 App Walkthrough
+
+
+---
 *Built with precision for the Flodo AI Take-Home Assignment.*

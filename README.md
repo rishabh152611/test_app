@@ -61,6 +61,7 @@ I utilized Gemini/Claude as a pair-programmer to accelerate specific architectur
 
 * **The Most Helpful Prompt:** *"Implement a try-finally block within a ChangeNotifier async method to ensure the isLoading state is toggled off even if the Hive database write fails."*
 * **AI Hallucination & Fix:** The AI initially suggested a basic `ListView` for all tasks. I had to manually override the logic to create `computed getters` (`tasks` vs `completedTasks`) to ensure that tasks move between screens automatically when their status changes to "Done," satisfying the points-trigger requirement.
+Cursor and Copilot streamline boilerplate code, Hive adapter generation, and complex logic like "Blocked-By" dependencies, allowing you to focus on high-level architecture and the app's premium "Emerald-on-Onyx" UI.
 
 ---
 

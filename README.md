@@ -73,8 +73,36 @@ I utilized Gemini/Claude as a pair-programmer to accelerate specific architectur
 
 ---
 
-##📸 App Walkthrough
+## 📸 App Walkthrough
 
+<div align="center">
+  <table style="width:100%; text-align:center;">
+    <tr>
+      <td width="33%"><strong>Main Dashboard</strong></td>
+      <td width="33%"><strong>Light Mode Dashboard</strong></td>
+      <td width="33%"><strong>Light Mode Task Editing</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/b3d63be9-fa2c-45fb-8090-4b433bf905f0" width="220" alt="Dashboard"></td>
+      <td><img src="https://github.com/user-attachments/assets/30e826b0-da31-45d9-9e75-17a3aa7950cc" width="220" alt="Form"></td>
+      <td><img src="https://github.com/user-attachments/assets/ca5e0394-f69b-4ace-b348-4dade726b199" width="220" alt="Leaderboard"></td>
+    </tr>
+    <tr>
+      <td><strong>Task Editing</strong></td>
+      <td><strong>Task Timeline</strong></td>
+      <td><strong>Accomplished Tasks</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/969ee589-aa6e-4463-86ea-966ecefd98d4" width="220" alt="Edit Screen"></td>
+      <td><img src="https://github.com/user-attachments/assets/9007c876-e545-4f45-8c07-928df1d272f0" width="220" alt="History"></td>
+      <td><img src="https://github.com/user-attachments/assets/cd5f2368-9257-4058-afa3-a029e3622f0b" width="220" alt="Status Management"></td>
+    </tr>
+  </table>
+  <br>
+  <strong>LeaderBoard</strong><br>
+  <img src="https://github.com/user-attachments/assets/7810fa21-3d0f-43ab-8384-068123cd5e76" width="220" alt="Empty State">
+  <p><i>A unified Emerald Green and Piano Black interface designed for focus.</i></p>
+</div>
 
 ---
 *Built with precision for the Flodo AI Take-Home Assignment.*

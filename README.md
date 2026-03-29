@@ -65,13 +65,6 @@ Cursor and Copilot streamline boilerplate code, Hive adapter generation, and com
 
 ---
 
-## 📽️ Submission Details
-
-* **Track Chosen:** Track B (Mobile Specialist)
-* **Stretch Goal:** Recurring Tasks & Points/Leaderboard System.
-* **Demo Video:** []
-* **Technical Decision I'm Proud Of:** I'm particularly proud of the **Atomic Save Logic**. By wrapping the database write and the state update in a `try...finally` block, I ensured the "buffering" overlay never hangs, even if the disk is full or the database encounters a lock. This provides a "High-Agency" user experience where the UI never feels broken or unresponsive.
-
 ---
 
 ## 📸 App Walkthrough

@@ -1,4 +1,4 @@
-# 🚀 FLODO AI: The High-Agency Task Architect
+# 🚀 FLODO AI Assignment: The High-Agency Task Architect
 ### *Track B: The Mobile Specialist Edition*
 
 Welcome to **Flodo AI**, a task management experience designed for those who demand precision, persistence, and a refined aesthetic. This isn't just a To-Do list; it's a productivity engine built with a "zero-data-loss" philosophy and a sleek, emerald-on-onyx visual language.
